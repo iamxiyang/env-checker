@@ -1,6 +1,6 @@
 {
   "name": "@iamxiyang/env-checker",
-  "version": "0.1.0-beta.0",
+  "version": "0.1.0-beta.1",
   "description": "Check the environment running the current code  帮助检查运行当前代码的环境",
   "type": "module",
   "exports": {
@@ -18,6 +18,9 @@
     "release": "bumpp --commit --push --tag",
     "test": "vitest"
   },
+  "files": [
+    "dist"
+  ],
   "keywords": [
     "environment",
     "env-checker",
