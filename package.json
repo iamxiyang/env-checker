@@ -1,6 +1,6 @@
 {
   "name": "@iamxiyang/env-checker",
-  "version": "0.0.1",
+  "version": "0.1.0-beta.0",
   "description": "Check the environment running the current code  帮助检查运行当前代码的环境",
   "type": "module",
   "exports": {
